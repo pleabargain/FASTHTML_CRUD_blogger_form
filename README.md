@@ -34,21 +34,28 @@ For a complete list of dependencies, see `requirements.txt`.
 ## Installation
 
 1. Clone this repository:
+
 git clone https://github.com/yourusername/story-journal.git
+
 cd story-journal
-Copy
+
 2. Create a virtual environment and activate it:
+
 python -m venv venv
+
 source venv/bin/activate  # On Windows, use venv\Scripts\activate
-Copy
+
+
 3. Install the required packages:
 pip install -r requirements.txt
-Copy
+
+
+
 ## Usage
 
 1. Run the application:
 python main.py
-Copy
+
 2. Open a web browser and navigate to `http://localhost:5001`
 
 3. Create a new account or log in with an existing one
