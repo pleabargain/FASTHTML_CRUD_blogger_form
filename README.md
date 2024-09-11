@@ -4,12 +4,16 @@ This is a web-based Story Journal application built with FastHTML, allowing user
 
 ## Features
 
-- User authentication
 - Create new journal entries
 - View all entries
 - Edit existing entries
 - Delete entries
 - Responsive design
+
+
+## wish list
+- User authentication
+
 
 ## Requirements
 
