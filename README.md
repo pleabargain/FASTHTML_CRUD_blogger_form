@@ -1,5 +1,10 @@
 # Story Journal Web Application
 
+# URLS
+https://github.com/pleabargain/FASTHTML_CRUD_blogger_form
+https://www.fastht.ml/
+https://docs.fastht.ml/llms-ctx.txt
+
 This is a web-based Story Journal application built with FastHTML, allowing users to create, read, update, and delete journal entries.
 
 ## Features
