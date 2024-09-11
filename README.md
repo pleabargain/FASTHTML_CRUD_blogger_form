@@ -43,7 +43,10 @@ cd story-journal
 
 python -m venv venv
 
-source venv/bin/activate  # On Windows, use venv\Scripts\activate
+source venv/bin/activate  
+
+
+# On Windows, use venv\Scripts\activate
 
 
 3. Install the required packages:
@@ -54,7 +57,8 @@ pip install -r requirements.txt
 ## Usage
 
 1. Run the application:
-python main.py
+
+python3 main.py
 
 2. Open a web browser and navigate to `http://localhost:5001`
 
@@ -65,7 +69,7 @@ python main.py
 ## Project Structure
 
 - `main.py`: The main application file containing all routes and database operations
-- `stories.db`: SQLite database file (created automatically when the app runs)
+- `stories.db`: SQLite database file (created automatically when the app runs) review the code to see how it works!
 
 ## Contributing
 
